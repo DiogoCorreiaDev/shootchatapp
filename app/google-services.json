@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152610114808",
+    "firebase_url": "https://shootchat-e58b0.firebaseio.com",
+    "project_id": "shootchat-e58b0",
+    "storage_bucket": "shootchat-e58b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152610114808:android:7fc739deef2abca8",
+        "android_client_info": {
+          "package_name": "com.dcdeveloper.shootchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152610114808-7b0hraetp451pdkn4ka3omrd52r7g3dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8K7Moyy3x2946pmfE3dzOjm2KQ9u7958"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152610114808-7b0hraetp451pdkn4ka3omrd52r7g3dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
